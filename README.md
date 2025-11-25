@@ -9,6 +9,8 @@
 
 ## 🎯 O objetivo:
 
+Solução de GPS-telemetria acessível para monitoramento inteligente da fauna silvestre.
+
 ## 💻 Projetos Desenvolvidos: 
 - Grupo 3 -  
   - https://github.com/InteliProjects/2025-2A-T08-EC11-G03
