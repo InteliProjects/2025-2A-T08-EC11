@@ -12,8 +12,13 @@
 Solução de GPS-telemetria acessível para monitoramento inteligente da fauna silvestre.
 
 ## 💻 Projetos Desenvolvidos: 
+- Grupo 1 -  
+  - https://github.com/InteliProjects/2025-2A-T08-EC11-G01
+- Grupo 2 -  
+  - https://github.com/InteliProjects/2025-2A-T08-EC11-G02
 - Grupo 3 -  
   - https://github.com/InteliProjects/2025-2A-T08-EC11-G03
-
+- Grupo 4 -  
+  - https://github.com/InteliProjects/2025-2A-T08-EC11-G04
      
 
